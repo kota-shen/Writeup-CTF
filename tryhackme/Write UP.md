@@ -238,7 +238,7 @@ Nmap done: 1 IP address (1 host up) scanned in 312.25 seconds
 > [!NOTE] Information importante
 > Suite aux différents scans, nous savons qu'il y a un serveur web (port 80 et port 8080) actif ainsi qu'un partage de fichiers sur le port 445. Nous savons aussi que le partage peut être consulté en tant qu'anonyme.
 > En accédant au partage samba, on peut accéder à un fichier nommé staff.txt contenant les noms de 2 utilisateurs qui sont des réponses au questionnaire à savoir Kay et Jan, nous pourrions directement tenter de brute force leurs mot de passe mais le questionnaire est construit de manière à ce qu'on suive certaines étapes. Nous allons donc continuer en faisant l'énumération du site web.
-> <imgsrc="https://github.com/kota-shen/Writeup-CTF/blob/main/tryhackme/Screenshot_2024-07-12_10-04-26.png">
+> <img src="https://github.com/kota-shen/Writeup-CTF/blob/main/tryhackme/Screenshot_2024-07-12_10-04-26.png">
 >
 
 
