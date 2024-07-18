@@ -18,10 +18,10 @@ Nmap scan report for 10.10.42.222
 Host is up (0.024s latency).
 Not shown: 65529 closed tcp ports (reset)
 PORT     STATE SERVICE
-<font color="#00b050">22/tcp   open  ssh</font>
-<font color="#00b050">80/tcp   open  http</font>
-<font color="#00b050">139/tcp  open  netbios-ssn</font>
-<font color="#00b050">445/tcp  open  microsoft-ds</font>
+<font color="green">22/tcp   open  ssh</font>
+<font color="green">80/tcp   open  http</font>
+<font color="green">139/tcp  open  netbios-ssn</font>
+<font color="green">445/tcp  open  microsoft-ds</font>
 8009/tcp open  ajp13
 <font color="#00b050">8080/tcp open  http-proxy</font>
 
